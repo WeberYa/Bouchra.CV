@@ -1,21 +1,22 @@
 div {
-    width: 550px;
-    height: 200px;
-    margin: 0 0 0 380px;
+    width: 40%;
+    height: 30%;
+    margin: 0 0 0 30%;
     text-align: left;
 }
 
 img {
-    width: 130px;
+    width: 25%;
     float: left;
-    margin-right: 30px;
+    margin-right: 8%;
 }
 
 h1 {
-    padding-top: 30px;
-    padding-bottom: 10px;
+    font-size: 150%;
+    padding-top: 7%;
+    padding-bottom: 3%;
     margin-bottom: 0;
-    background-color:whitesmoke;
+    background-color: whitesmoke;
 }
 
 h3 {
@@ -24,13 +25,14 @@ h3 {
 }
 
 h2 {
+    font-size: 150%;
     text-align: center;
 }
 
 .pl {
     color: darkcyan;
     font-family: Papyrus, fantasy;
-    font-size: 30px;
+    font-size: 200%;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
@@ -38,21 +40,21 @@ h2 {
 }
 
 .f {
-    margin-left: 540px;
+    margin-left: 40%;
     text-decoration: none;
     color: white;
 }
 
 .e {
-    margin-left: 65px;
+    margin-left: 6%;
     text-decoration: none;
     color: white;
 }
 
 hr {
     border-style: dotted;
-    margin-left: 620px;
-    margin-right: 620px;
+    margin-left: 47%;
+    margin-right: 47%;
     height: 0;
     border-left: 0;
     border-right: 0;
@@ -65,9 +67,9 @@ hr {
     background: darkcyan;
     background-image: -webkit-linear-gradient(top, #34d5db77, darkcyan);
     background-image: -moz-linear-gradient(top, #34d5db77, darkcyan);
-    background-image: -ms-linear-gradient(top,#34d5db77, darkcyan);
-    background-image: -o-linear-gradient(top,#34d5db77, darkcyan);
-    background-image: linear-gradient(to bottom,#34d5db77, darkcyan);
+    background-image: -ms-linear-gradient(top, #34d5db77, darkcyan);
+    background-image: -o-linear-gradient(top, #34d5db77, darkcyan);
+    background-image: linear-gradient(to bottom, #34d5db77, darkcyan);
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 28px;
@@ -77,9 +79,9 @@ hr {
     font-size: 18px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-  }
+}
 
-  #btn:hover {
+#btn:hover {
     background: #3cfce2;
     background-image: -webkit-linear-gradient(top, #33f5db, #1ed89a);
     background-image: -moz-linear-gradient(top, #33f5db, #1ed89a);
@@ -87,4 +89,4 @@ hr {
     background-image: -o-linear-gradient(top, #33f5db, #1ed89a);
     background-image: linear-gradient(to bottom, #33f5db, #1ed89a);
     text-decoration: none;
-  }
+}
