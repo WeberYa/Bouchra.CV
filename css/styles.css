@@ -1,12 +1,16 @@
+body {
+    text-align: center;
+}
+
 div {
-    width: 60%;
+    width: 55%;
     height: 30%;
     margin: auto;
     text-align: left;
 }
 
 img {
-    width: 23%;
+    width: 20%;
     margin-right: 7%;
     float: left;
 }
@@ -39,7 +43,6 @@ h2 {
 }
 
 .f {
-    margin-left: 38%;
     text-decoration: none;
     color: white;
 }
