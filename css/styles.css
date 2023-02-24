@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 
-div {
+div {  
     width: 55%;
     height: 30%;
     margin: auto;
@@ -48,7 +48,7 @@ h2 {
 }
 
 .e {
-    margin-left: 6%;
+    margin-left: 4%;
     text-decoration: none;
     color: white;
 }
