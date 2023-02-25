@@ -1,26 +1,30 @@
 .firstdiv {
-    width: 55%;
+    width: 45%;
     height: 30%;
     margin: auto;
     text-align: left;
+    padding-top: 5px;
 }
 
 .prof {
-    width: 20%;
-    margin-right: 7%;
+    width: 10%;
+    margin-left: 21%;
+    margin-top: 1%;
     float: left;
 }
 
-h1 {
+h1 {color: darkkhaki;
     padding-top: 30px;
     padding-bottom: 10px;
     margin-bottom: 0;
+    padding-left: 70px;
     background-color: whitesmoke;
 }
 
-h3 {
+h3 {color: darkgray;
     background-color: beige;
     margin-top: 0;
+    padding-left: 70px;
 }
 
 .whatsapp {
@@ -55,7 +59,7 @@ a {
     width: 70px;
 }
 
-.numbers {
+.numbers {color: gray;
     position: absolute;
     width: 400px;
     border-color: black;
@@ -66,7 +70,7 @@ a {
     padding-left: 5%;
 }
 
-.profile {
+.profile {color: gray;
     position: relative;
     width: auto;
     border-color: black;
@@ -81,3 +85,69 @@ a {
 .s {
     margin-left: 30px;
 }
+
+.language {
+    margin-left: 30px;
+}
+
+.arone {
+    width: 50px;
+    height: 5px;
+    position: relative;
+    background-color: rgb(3, 156, 156);
+}
+
+.artwo {
+    width: 49px;
+    height: 5px;
+    left: 0;
+    position: absolute;
+    background-color: darkslategrey;
+}
+
+.frone {
+    width: 50px;
+    height: 5px;
+    position: relative;
+    background-color: rgb(3, 156, 156);
+}
+
+.frtwo {
+    width: 45px;
+    height: 5px;
+    left: 0;
+    position: absolute;
+    background-color: darkslategrey;
+}
+
+.engone {
+    width: 50px;
+    height: 5px;
+    position: relative;
+    background-color: rgb(3, 156, 156);
+}
+
+.engtwo {
+    width: 30px;
+    height: 5px;
+    left: 0;
+    position: absolute;
+    background-color: darkslategrey;
+}
+
+.flexx {
+    margin-left: 30px;
+    display: flex;
+    gap: 15%;
+}
+
+.flex {
+    margin-left: 30px;
+    display: flex;
+    gap: 15%;
+}
+
+.c {
+    width: 50px;
+}
+h2{color: darkolivegreen;}
