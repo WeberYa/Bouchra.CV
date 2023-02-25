@@ -15,10 +15,10 @@
 
 h1 {
     color: darkkhaki;
-    padding-top: 30px;
-    padding-bottom: 10px;
+    padding-top: 6%;
+    padding-bottom: 2%;
     margin-bottom: 0;
-    padding-left: 70px;
+    padding-left: 11%;
     background-color: whitesmoke;
 }
 
@@ -26,7 +26,7 @@ h3 {
     color: darkgray;
     background-color: beige;
     margin-top: 0;
-    padding-left: 70px;
+    padding-left: 11%;
 }
 
 .whatsapp {
@@ -53,6 +53,12 @@ h3 {
     width: 25px;
 }
 
+.location {
+    margin-left: 20px;
+    height: 25px;
+    width: 25px;
+}
+
 a {
     font-size: medium;
     color: gray;
@@ -62,6 +68,7 @@ a {
 }
 
 .numbers {
+    left: 0;
     color: gray;
     position: absolute;
     width: 29.5%;
@@ -71,20 +78,22 @@ a {
     border-right: 0;
     border-top: 0;
     border-bottom: 0;
-    padding-left: 15%;
+    margin-left: 15.5%;
 }
 
 .profile {
     color: gray;
     position: relative;
-    width: 40%;
+    width: 35%;
+    text-align: justify;
     border-color: black;
     border-style: solid;
     border-top: 0;
+    border-right: 0;
     border-bottom: 0;
     padding-left: 0.03%;
     margin-left: 45%;
-    margin-right: 15%;
+    margin-right: 15.6%;
 }
 
 .s {
