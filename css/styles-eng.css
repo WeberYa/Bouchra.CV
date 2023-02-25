@@ -13,6 +13,7 @@
 }
 
 h1 {
+    width: 75%;
     color: darkkhaki;
     padding-top: 6%;
     margin-left: 15%;
@@ -28,6 +29,7 @@ h3 {
     margin-left: 15%;
     margin-top: 0;
     padding-left: 15%;
+    width: 75%;
 }
 
 .whatsapp {
